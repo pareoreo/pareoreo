@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frengki
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C++ and Phyton
+- 👀 I’m interested in datasciece
+- 🌱 I’m currently learning C++, Phyton, javascript, golang, kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
